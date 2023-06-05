@@ -193,4 +193,4 @@ while ($count -lt $NUMBER_OF_ACCOUNTS_TO_CREATE) {
 <p align="center"><b><i>"So, what is it? What is it you’re doing with this one wild and precious life of yours?”💭</p></b></i>
 <br />
 <br />
-<p align="right"> Next up, <a href="https://github.com/0xbythesecond/azure-network-protocols"> Azure Network Protocols </a></p>
+
